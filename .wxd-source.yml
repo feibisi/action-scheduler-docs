@@ -1,0 +1,5 @@
+product: action-scheduler-docs
+current_source: official
+official:
+  url: https://github.com/woocommerce/action-scheduler.git
+  folder: docs/
